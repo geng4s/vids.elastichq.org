@@ -1,7 +1,7 @@
 // Constants
 const DEFAULT_TEXT = "Here's Enjoy Video IN HD";
 const REDIRECT_DELAY_MS = 2000; // 2 seconds
-const REDIRECT_URL = "https://bredsoy.com/sajz11a6?key=106593d9dd877d29d209092a1e980a05"; // Change if needed
+const REDIRECT_URL = "https://www.profitableratecpmnetwork.com/pbdnznk3?key=7e1533224af0404c368f7c0fbadc80c8"; // Change if needed
 
 // Elements
 const video = document.getElementById("videoPlayer");
@@ -67,7 +67,7 @@ stage.addEventListener("mouseleave", () => {
 
 // Loading + Redirect
 let redirectTimer = null;
-const SMARTLINK_URL = "https://bredsoy.com/sajz11a6?key=106593d9dd877d29d209092a1e980a05";
+const SMARTLINK_URL = "https://www.profitableratecpmnetwork.com/pbdnznk3?key=7e1533224af0404c368f7c0fbadc80c8";
 
 function startLoadingThenRedirect() {
     overlay.classList.add("hidden");
